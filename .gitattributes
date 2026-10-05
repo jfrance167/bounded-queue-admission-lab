@@ -1,0 +1,2 @@
+# Preserve the original fixture bytes used by the frozen SHA-256 assertion.
+/fixtures/cases.json -text
