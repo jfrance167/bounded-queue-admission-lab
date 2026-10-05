@@ -1,0 +1,11 @@
+{
+  "phase": "contract-and-oracle-before-application",
+  "cases": 21,
+  "independent_oracle_matches": 20,
+  "sha256": {
+    "fixtures/cases.json": "ccf24c69ba586f5e340667a4b7c41d4e27aaa758037d12a59e4f710ad5644787",
+    "SCHEMA.md": "63c0a6b0954c0474b895bb5478000e8ffd06b0b421b03d3b0c02e0bebe8e555c",
+    "tests/support.py": "b45df1cc4a6c7b5ba386e879f2f79d61869cd2a090ebf98cc14a9875e0981ca8"
+  },
+  "application_directory_absent": true
+}
